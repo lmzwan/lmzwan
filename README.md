@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# 仓库状态统计
+![](https://github-readme-stats.vercel.app/api?username=lmzwan&show_icons=true&theme=transparent)
+
+# 主页访问量统计
+![visitor Count](https://profile-counter.glitch.me/lmzwan.com/count.svg)
+
 <!--
 **lmzwan/lmzwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
